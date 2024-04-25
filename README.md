@@ -181,6 +181,7 @@ This list started from a discussion in DataTalks.Club. Want to talk about data? 
 ## Podcasts in French
 
 - [BigData Hebdo](https://www.bigdatahebdo.com/)
+- [Axopen](https://podcast.ausha.co/axopen)
 
 # License
 
